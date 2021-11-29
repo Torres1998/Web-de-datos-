@@ -1,3 +1,13 @@
+"Name";"Model";"Manufacturer";"Cost_in_credits";"Length";"Max_atmosphering_speed";"Crew,passengers";"Cargo_capacity";"Consumables";"Hyperdrive_rating";"MGLT";"Starship_class"
+"Executor";"Executor-class_star_dreadnought";"Kuat_Drive_Yards,_Fondor_Shipyards";"1143350000.0";"19000";"279144.0";"38000.0";"250000000.0";"6_years";"2.0";"40.0";"Star_dreadnought"
+"Sentinel-class_landing_craft";"Sentinel-class_landing_craft";"Sienar_Fleet_Systems,_Cyngus_Spaceworks";"240000.0";"38";"5.0";"75.0";"180000.0";"1_month";"1.0";"70.0";"landing_craft"
+"Death_Star";"DS-1_Orbital_Battle_Station";"Imperial_Department_of_Military_Research,_Sienar_Fleet_Systems";"1000000000000.0";"120000";"342953.0";"843342.0";"1000000000000.0";"3_years";"4.0";"10.0";"Deep_Space_Mobile_Battlestation"
+"Millennium_Falcon";"YT-1300_light_freighter";"Corellian_Engineering_Corporation";"100000.0";"34.37";"4.0";"6.0";"100000.0";"2_months";"0.5";"75.0";"Light_freighter"
+"Y-wing";"BTL_Y-wing";"Koensayr_Manufacturing";"134999.0";"14";"2.0";"0.0";"110.0";"1_week";"1.0";"80.0";"assault_starfighter"
+"X-wing";"T-65_X-wing";"Incom_Corporation";"149999.0";"12.5";"1.0";"0.0";"110.0";"1_week";"1.0";"100.0";"Starfighter"
+"TIE_Advanced_x1";"Twin_Ion_Engine_Advanced_x1";"Sienar_Fleet_Systems";"0";"9.2";"1.0";"0.0";"150.0";"5_days";"1.0";"105.0";"Starfighter"
+"Slave_1";"Firespray-31-class_patrol_and_attack";"Kuat_Systems_Engineering";"0";"21.5";"1.0";"6.0";"70000.0";"1_month";"3.0";"70.0";"Patrol_craft"
+"Imperial_shuttle";"Lambda-class_T-4a_shuttle";"Sienar_Fleet_Systems";"240000.0";"20";"6.0";"20.0";"80000.0";"2_months";"1.0";"50.0";"Armed_government_transport"
 "EF76_Nebulon-B_escort_frigate";"EF76_Nebulon-B_escort_frigate";"Kuat_Drive_Yards";"8500000.0";"300";"854.0";"75.0";"6000000.0";"2_years";"2.0";"40.0";"Escort_ship"
 "Calamari_Cruiser";"MC80_Liberty_type_Star_Cruiser";"Mon_Calamari_shipyards";"104000000.0";"1200";"5400.0";"1200.0";"0";"2_years";"1.0";"60.0";"Star_Cruiser"
 "A-wing";"RZ-1_A-wing_Interceptor";"Alliance_Underground_Engineering,_Incom_Corporation";"175000.0";"9.6";"1.0";"0.0";"40.0";"1_week";"1.0";"120.0";"Starfighter"
@@ -26,3 +36,4 @@
 "V-wing";"Alpha-3_Nimbus-class_V-wing_starfighter";"Kuat_Systems_Engineering";"102500.0";"7.9";"1.0";"0.0";"60.0";"15_hours";"1.0";"0";"starfighter"
 "CR90_corvette";"CR90_corvette";"Corellian_Engineering_Corporation";"3500000.0";"150";"165.0";"600.0";"3000000.0";"1_year";"2.0";"60.0";"corvette"
 "Banking_clan_frigate";"Munificent-class_star_frigate";"Hoersch-Kessel_Drive,_Inc,_Gwori_Revolutionary_Industries";"57000000.0";"825";"200.0";"0";"40000000.0";"2_years";"1.0";"0";"cruiser"
+
