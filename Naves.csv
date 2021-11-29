@@ -1,4 +1,4 @@
-"Name";"Model";"Manufacturer";"Cost_in_credits";"Length";"Max_atmosphering_speed";"Crew,passengers";"Cargo_capacity";"Consumables";"Hyperdrive_rating";"MGLT";"Starship_class"
+"Name";"Model";"Manufacturer";"Cost_in_credits";"Length";"Max_atmosphering_speed";"Crew";"Passengers";"Cargo_capacity";"Consumables";"Hyperdrive_rating";"MGLT";"Starship_class"
 "Executor";"Executor-class_star_dreadnought";"Kuat_Drive_Yards,_Fondor_Shipyards";"1143350000.0";"19000";"279144.0";"38000.0";"250000000.0";"6_years";"2.0";"40.0";"Star_dreadnought"
 "Sentinel-class_landing_craft";"Sentinel-class_landing_craft";"Sienar_Fleet_Systems,_Cyngus_Spaceworks";"240000.0";"38";"5.0";"75.0";"180000.0";"1_month";"1.0";"70.0";"landing_craft"
 "Death_Star";"DS-1_Orbital_Battle_Station";"Imperial_Department_of_Military_Research,_Sienar_Fleet_Systems";"1000000000000.0";"120000";"342953.0";"843342.0";"1000000000000.0";"3_years";"4.0";"10.0";"Deep_Space_Mobile_Battlestation"
